@@ -151,8 +151,10 @@ for target in targets:
 ```
 
 ## Output:
-<img width="1462" height="641" alt="Screenshot 2026-03-17 083209" src="https://github.com/user-attachments/assets/c21713fa-c528-4074-9259-57b5b543232c" />
+<img width="1470" height="652" alt="Screenshot 2026-03-17 083142" src="https://github.com/user-attachments/assets/03403eb2-df54-4dac-9f28-28afbd6b9a81" />
+
 <img width="1472" height="519" alt="Screenshot 2026-03-17 083155" src="https://github.com/user-attachments/assets/50c8ff6c-e4ef-4931-aedf-68702afebc2f" />
+
 <img width="1462" height="641" alt="Screenshot 2026-03-17 083209" src="https://github.com/user-attachments/assets/7417b0cd-3198-49df-9903-13e18d746b3f" />
 
 
